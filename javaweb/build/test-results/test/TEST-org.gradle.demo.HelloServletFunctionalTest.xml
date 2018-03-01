@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.gradle.demo.HelloServletFunctionalTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-03-01T03:15:47" hostname="fairlydembp.cn.ibm.com" time="3.367">
+  <properties/>
+  <testcase name="sayHello" classname="org.gradle.demo.HelloServletFunctionalTest" time="3.367"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+三月 01, 2018 11:15:47 上午 org.openqa.selenium.remote.DesiredCapabilities chrome
+信息: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.35.528157 (4429ca2590d6988c0745c24c8858745aaaec01ef) on port 36385
+Only local connections are allowed.
+三月 01, 2018 11:15:49 上午 org.openqa.selenium.remote.ProtocolHandshake createSession
+信息: Detected dialect: OSS
+]]></system-err>
+</testsuite>
